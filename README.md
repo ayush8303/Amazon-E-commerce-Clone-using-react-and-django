@@ -24,16 +24,6 @@ Welcome to the Amazon Clone Project! This project is based on a tutorial series 
 
 <img src="https://raw.githubusercontent.com/hackstarsj/AmazonCloneEcommerceProjectUsingDjangoReact/master/ER_Diagram.png" alt="Amazon Clone Project ER Diagram" style="width: 100%;"/>
 
-## API Documentation
-
-- **API Documentaion for Post Man**: [API Documentaion](https://documenter.getpostman.com/view/5800143/2sA3QmEawp)
-
-## CI CD Pipeline AWS Deployment Step using Docker and Github Action for [React+Django]
-
-- **Complete Steps**: [Complete Steps](https://raw.githubusercontent.com/hackstarsj/AmazonCloneEcommerceProjectUsingDjangoReact/master/CI_CD_Deployment_Step_Using_Docker_AWS.txt)
-
--- **Video Steps** : [Deployment in AWS](https://youtu.be/QHCsaG9dLI4)
-
 ## Project Overview
 
 This project involves creating a clone of Amazon's web application. It includes features such as user authentication, product listings, a shopping cart, and an inventory management system. The project is built using the following technologies:
@@ -268,6 +258,4 @@ Enjoy building your Amazon clone! If you have any questions or run into issues, 
 
 <img src="https://raw.githubusercontent.com/hackstarsj/AmazonCloneEcommerceProjectUsingDjangoReact/master/screenshots/46.png" alt="Edit Draft Purchase Order" style="width: 100%;"/>
 
-## Commits
-
-# Commit Tree
+#### Thankyou
