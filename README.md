@@ -2,12 +2,14 @@
 
 Welcome to the Amazon Clone Project! This project is based on a tutorial series by the SuperCoders YouTube channel. The series walks through creating a fully functional Amazon clone using Django and React, complete with an inventory management system.
 
-## Support 
+## Support
+
 - You love our open source project? We love you too! Your sponsorship helps us dedicate more time to development, improvements, and community support.
 
 - Show your appreciation for our open source project. Your sponsorship directly impacts our ability to innovate and grow.
 
-## Complete Project Flow 
+## Complete Project Flow
+
 <img src="https://raw.githubusercontent.com/hackstarsj/AmazonCloneEcommerceProjectUsingDjangoReact/master/screenshots/Ecommerce.gif" alt="Amazon Clone Ecommerce Flow" style="width: 100%;"/>
 
 ## Complete PO Flow (Purchase Order)
@@ -19,9 +21,10 @@ Welcome to the Amazon Clone Project! This project is based on a tutorial series 
 <img src="https://raw.githubusercontent.com/hackstarsj/AmazonCloneEcommerceProjectUsingDjangoReact/master/screenshots/SO.gif" alt="Amazon Clone Ecommerce SO Flow" style="width: 100%;"/>
 
 ## ER Diagram
+
 <img src="https://raw.githubusercontent.com/hackstarsj/AmazonCloneEcommerceProjectUsingDjangoReact/master/ER_Diagram.png" alt="Amazon Clone Project ER Diagram" style="width: 100%;"/>
 
-## API Documentation 
+## API Documentation
 
 - **API Documentaion for Post Man**: [API Documentaion](https://documenter.getpostman.com/view/5800143/2sA3QmEawp)
 
@@ -30,14 +33,6 @@ Welcome to the Amazon Clone Project! This project is based on a tutorial series 
 - **Complete Steps**: [Complete Steps](https://raw.githubusercontent.com/hackstarsj/AmazonCloneEcommerceProjectUsingDjangoReact/master/CI_CD_Deployment_Step_Using_Docker_AWS.txt)
 
 -- **Video Steps** : [Deployment in AWS](https://youtu.be/QHCsaG9dLI4)
-
-
-## YouTube Tutorial Series
-
-This project follows the tutorial series available on the SuperCoders YouTube channel. You can watch the entire series using the following links:
-
-- **SuperCoders Channel**: [SuperCoders YouTube Channel](https://www.youtube.com/@SuperCoders)
-- **Project Playlist**: [Amazon Clone Project Playlist](https://www.youtube.com/watch?v=VOgfT0mSBvc&list=PLb-NlfexLTk-bLuLZNHmpfDdn7XlkWKlw&pp=iAQB)
 
 ## Project Overview
 
@@ -81,6 +76,7 @@ Ensure you have the following installed on your local development machine:
 1. **Clone the Repository**
 
 ### For Backend
+
 ```
 -cd backend
 python -m venv venv
@@ -132,41 +128,49 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Enjoy building your Amazon clone! If you have any questions or run into issues, feel free to open an issue on this repository or reach out through the comments on the YouTube tutorial videos.
 
-
 ## Screenshots
 
-### Empty Dashboard 
+### Empty Dashboard
+
 <img src="https://raw.githubusercontent.com/hackstarsj/AmazonCloneEcommerceProjectUsingDjangoReact/master/screenshots/first.png" alt="Amazon Clone Project Empty Dashboard" style="width: 100%;"/>
 
 ### DIfferent Themes
 
 ## Light Theme
+
 <img src="https://raw.githubusercontent.com/hackstarsj/AmazonCloneEcommerceProjectUsingDjangoReact/master/screenshots/16.png" alt="Amazon Clone Project Empty Dashboard" style="width: 100%;"/>
 
 ## Blue Light Theme
+
 <img src="https://raw.githubusercontent.com/hackstarsj/AmazonCloneEcommerceProjectUsingDjangoReact/master/screenshots/17.png" alt="Amazon Clone Project Empty Dashboard" style="width: 100%;"/>
 
 ## Blue Dark Theme
+
 <img src="https://raw.githubusercontent.com/hackstarsj/AmazonCloneEcommerceProjectUsingDjangoReact/master/screenshots/22.png" alt="Amazon Clone Project Empty Dashboard" style="width: 100%;"/>
 
 ## Green Light Theme
+
 <img src="https://raw.githubusercontent.com/hackstarsj/AmazonCloneEcommerceProjectUsingDjangoReact/master/screenshots/18.png" alt="Amazon Clone Project Empty Dashboard" style="width: 100%;"/>
 
 ## Green Dark Theme
+
 <img src="https://raw.githubusercontent.com/hackstarsj/AmazonCloneEcommerceProjectUsingDjangoReact/master/screenshots/19.png" alt="Amazon Clone Project Empty Dashboard" style="width: 100%;"/>
 
 ## Red Light Theme
+
 <img src="https://raw.githubusercontent.com/hackstarsj/AmazonCloneEcommerceProjectUsingDjangoReact/master/screenshots/20.png" alt="Amazon Clone Project Empty Dashboard" style="width: 100%;"/>
 
 ## Red Dark Theme
+
 <img src="https://raw.githubusercontent.com/hackstarsj/AmazonCloneEcommerceProjectUsingDjangoReact/master/screenshots/21.png" alt="Amazon Clone Project Empty Dashboard" style="width: 100%;"/>
 
 ## Orange Light Theme
+
 <img src="https://raw.githubusercontent.com/hackstarsj/AmazonCloneEcommerceProjectUsingDjangoReact/master/screenshots/23.png" alt="Amazon Clone Project Empty Dashboard" style="width: 100%;"/>
 
 ## Orange Dark Theme
-<img src="https://raw.githubusercontent.com/hackstarsj/AmazonCloneEcommerceProjectUsingDjangoReact/master/screenshots/24.png" alt="Amazon Clone Project Empty Dashboard" style="width: 100%;"/>
 
+<img src="https://raw.githubusercontent.com/hackstarsj/AmazonCloneEcommerceProjectUsingDjangoReact/master/screenshots/24.png" alt="Amazon Clone Project Empty Dashboard" style="width: 100%;"/>
 
 ### Dynamic Form For Add Product ScreenShot with JSON Key Value Pair Input and Multi Step form
 
@@ -180,17 +184,15 @@ Enjoy building your Amazon clone! If you have any questions or run into issues, 
 
 <img src="https://raw.githubusercontent.com/hackstarsj/AmazonCloneEcommerceProjectUsingDjangoReact/master/screenshots/6.png" alt="Amazon Clone Project Add Products" style="width: 100%;"/>
 
-
 ## Sidebar Active Indicator
+
 <img src="https://raw.githubusercontent.com/hackstarsj/AmazonCloneEcommerceProjectUsingDjangoReact/master/screenshots/7.png" alt="Amazon Clone Project Sidebar Active" style="width: 100%;"/>
 
 ## Manage Category Page With Search,Sorting,Pagination,Item Per page,DataGrid,Expandable Child Item and API Integrated
 
 <img src="https://raw.githubusercontent.com/hackstarsj/AmazonCloneEcommerceProjectUsingDjangoReact/master/screenshots/8.png" alt="Amazon Clone Project Manage Category" style="width: 100%;"/>
 
-
 <img src="https://raw.githubusercontent.com/hackstarsj/AmazonCloneEcommerceProjectUsingDjangoReact/master/screenshots/9.png" alt="Amazon Clone Project Manage Category" style="width: 100%;"/>
-
 
 <img src="https://raw.githubusercontent.com/hackstarsj/AmazonCloneEcommerceProjectUsingDjangoReact/master/screenshots/10.png" alt="Amazon Clone Project Manage Category" style="width: 100%;"/>
 
@@ -200,10 +202,9 @@ Enjoy building your Amazon clone! If you have any questions or run into issues, 
 
 <img src="https://raw.githubusercontent.com/hackstarsj/AmazonCloneEcommerceProjectUsingDjangoReact/master/screenshots/13.png" alt="Amazon Clone Project Manage Category" style="width: 100%;"/>
 
-
 <img src="https://raw.githubusercontent.com/hackstarsj/AmazonCloneEcommerceProjectUsingDjangoReact/master/screenshots/14.png" alt="Amazon Clone Project Manage Category" style="width: 100%;"/>
 
-## Added Multi File Upload with Preview in Dynamic Form 
+## Added Multi File Upload with Preview in Dynamic Form
 
 <img src="https://raw.githubusercontent.com/hackstarsj/AmazonCloneEcommerceProjectUsingDjangoReact/master/screenshots/15.png" alt="Amazon Clone Project Dynamic Form with Multi File Upload" style="width: 100%;"/>
 
@@ -268,4 +269,5 @@ Enjoy building your Amazon clone! If you have any questions or run into issues, 
 <img src="https://raw.githubusercontent.com/hackstarsj/AmazonCloneEcommerceProjectUsingDjangoReact/master/screenshots/46.png" alt="Edit Draft Purchase Order" style="width: 100%;"/>
 
 ## Commits
+
 # Commit Tree
